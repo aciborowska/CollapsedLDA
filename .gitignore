@@ -98,7 +98,15 @@ venv.bak/
 .ropeproject
 
 # mkdocs documentation
+
+
 /site
 
 # mypy
 .mypy_cache/
+
+/CollapsedLDA/venv
+/CollapsedLDA/__pycache__
+/CollapsedLDA/.idea
+/CollapsedLDA/gensim_impl/gensim.log
+/CollapsedLDA/gensim_impl/__pycache__/dataset.cpython-36.pyc
